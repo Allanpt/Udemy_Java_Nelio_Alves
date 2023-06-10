@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="entities.Rectangle"/>
     <fullyQualifiedTypeName name="util.CurrencyConverter"/>
+    <fullyQualifiedTypeName name="util.tax"/>
 </qualifiedTypeNameHistroy>
