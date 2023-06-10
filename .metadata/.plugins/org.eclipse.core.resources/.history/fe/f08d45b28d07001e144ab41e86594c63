@@ -1,0 +1,38 @@
+package entities;
+
+public class BankAccout {
+	
+	private int accoutNumber;
+	public String name;
+	private double initialDeposit;
+	
+	public bank_accout(int accoutNumber, String name, double initialDeposit) {
+		super();
+		this.accoutNumber = accoutNumber;
+		this.name = name;
+		this.initialDeposit = initialDeposit;
+	}
+
+	public int getAccoutNumber() {
+		return accoutNumber;
+	}
+
+	public void setAccoutNumber(int accoutNumber) {
+		this.accoutNumber = accoutNumber;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public double getInitialDeposit() {
+		return initialDeposit;
+	}
+
+	public void setInitialDeposit(double initialDeposit) {
+		this.initialDeposit = initialDeposit;
+	}
+	
+	
+	
+}
