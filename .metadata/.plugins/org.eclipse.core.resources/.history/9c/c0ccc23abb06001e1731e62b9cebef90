@@ -1,0 +1,10 @@
+package util;
+
+public class CurrencyConverter {
+	
+	public static final double IOF = 6/100;
+	
+	public static double dollarInReais(double dollar, double quantity) {
+		return dollar * (1 + IOF) * quantity;
+	}
+}

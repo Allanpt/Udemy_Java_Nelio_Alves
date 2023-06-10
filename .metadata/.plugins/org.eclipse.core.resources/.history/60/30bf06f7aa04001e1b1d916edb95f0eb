@@ -1,0 +1,19 @@
+package application;
+
+import entities.Product;
+
+public class Produtos {
+
+	public static void main(String[] args) {
+		
+		Product nome, preco, quantidade;
+		nome = new Product();
+		preco = new Product();
+		quantidade = new Product();
+		
+		System.out.println("Enter product data:");
+		System.out.print("Name:");
+		nome.name = 
+	}
+
+}

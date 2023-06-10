@@ -1,0 +1,8 @@
+package entities;
+
+public class Triangle {
+
+	public double a; /* atributo a*/
+	public double b; /*atributo b */ 
+	public double c;  /*atributo c*/ 
+}
