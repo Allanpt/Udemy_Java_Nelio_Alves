@@ -15,5 +15,7 @@
 	<classpathentry kind="src" path="Exercicio_dolar"/>
 	<classpathentry kind="src" path="Exercicio_Conta_Bancaria"/>
 	<classpathentry kind="src" path="Exercicio_aluguel"/>
+	<classpathentry kind="src" path="Listas"/>
+	<classpathentry kind="src" path="Exercicio_Lista_Empregados"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
