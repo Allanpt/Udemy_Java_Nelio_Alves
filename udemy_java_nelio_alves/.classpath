@@ -17,5 +17,6 @@
 	<classpathentry kind="src" path="Exercicio_aluguel"/>
 	<classpathentry kind="src" path="Listas"/>
 	<classpathentry kind="src" path="Exercicio_Lista_Empregados"/>
+	<classpathentry kind="src" path="Exercicio_Pedido"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

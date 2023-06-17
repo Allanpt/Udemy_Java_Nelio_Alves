@@ -3,7 +3,9 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Product;
+import entities.Products;
+
+
 
 public class Produtos {
 
@@ -13,7 +15,7 @@ public class Produtos {
 		Scanner sc = new Scanner(System.in);
 		
 		
-		Product product = new Product();
+		Products product = new Products();
 		
 		System.out.println("Enter product data:");
 		System.out.print("Name: ");

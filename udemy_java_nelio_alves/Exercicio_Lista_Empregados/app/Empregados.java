@@ -28,10 +28,10 @@ public class Empregados {
 			int id = sc.nextInt();
 			
 			while (hasId(list, id)) {
-				System.out.println("This id has already exist! Try again: ");
+				System.out.print("This id has already exist! Try again: ");
 				id = sc.nextInt();
 			}
-			
+			System.out.println();
 			System.out.print("Name: ");
 			sc.nextLine();
 			String name = sc.nextLine();
